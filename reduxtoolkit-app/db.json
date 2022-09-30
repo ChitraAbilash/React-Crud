@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Tommy",
+      "address": "tokyo",
+      "email": "tommy@test.com",
+      "contact": 46547658,
+      "id": 2
+    },
+    {
+      "name": "ryan",
+      "email": "ryan@gmail.com",
+      "contact": "9643469746384",
+      "address": "abcd",
+      "id": 3
+    },
+    {
+      "name": "chitra",
+      "email": "chitra@gmail.com",
+      "contact": "214325",
+      "address": "fdsfsdf",
+      "id": 4
+    },
+    {
+      "name": "chitra",
+      "email": "chitra@gmail.com",
+      "contact": "45346",
+      "address": "Japan",
+      "id": 5
+    },
+    {
+      "name": "abilash",
+      "email": "abilashanandaraj@gmail.com",
+      "contact": "3436457",
+      "address": "Berlin",
+      "id": 6
+    },
+    {
+      "name": "hisabfibs",
+      "email": "dgsd@gmail.com",
+      "contact": "2343",
+      "address": "Japan",
+      "id": 7
+    }
+  ]
+}
